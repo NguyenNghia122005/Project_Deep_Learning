@@ -360,7 +360,7 @@ VS Code là phần mềm editor có hỗ trợ chạy notebook trực tiếp, ti
 1. Nhấn **Ctrl + Shift + P** → gõ `Python: Select Interpreter`
 2. Chọn interpreter có chữ `venv` trong đường dẫn
 
-**Bước 6** — Chạy notebook bằng nút **▶ Run All** ở trên cùng hoặc nhấn **Shift + Enter** từng cell.
+**Bước 6** — Chạy notebook bằng nút ** Run All** ở trên cùng hoặc nhấn **Shift + Enter** từng cell.
 
 ---
 
