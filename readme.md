@@ -191,6 +191,7 @@ project/
 │   ├── visualization.py
 │   └── manual_object_detection.py
 └── README.md
+└── training_log.txt
 ```
 
 ---
