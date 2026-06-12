@@ -196,7 +196,7 @@ project/
 
 ---
 
-## 🚀 Cách chạy trên Google Colab (khuyến nghị)
+## Cách chạy trên Google Colab (khuyến nghị)
 
 Google Colab cung cấp GPU miễn phí, phù hợp nhất để chạy dự án này.
 
