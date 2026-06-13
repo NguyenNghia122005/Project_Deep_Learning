@@ -192,6 +192,7 @@ project/
 │   └── manual_object_detection.py
 └── README.md
 └── training_log.txt
+└── data_labeling.ipynb
 ```
 
 ---
